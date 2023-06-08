@@ -16,3 +16,4 @@ class Point:
 
     def __del__(self):
         print(f'deleted: {self}')
+#какое-то изменение
